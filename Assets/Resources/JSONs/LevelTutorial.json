@@ -1,0 +1,14 @@
+{
+  "Enemies":
+  [
+    {
+      "enemyName": "OlivoEnemigo(Clone)",
+      "damageToDeal": 10
+    },
+    {
+      "enemyName": "Proyectil(Clone)",
+      "damageToDeal": 5
+    }
+  ]
+  
+}
