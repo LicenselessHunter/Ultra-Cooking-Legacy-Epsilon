@@ -13,7 +13,7 @@ Involucrados:
 * Fernando Flores
 * Bryan Sanzana
 
-Yo, Elías Halabi, me encargué especificamente de parte de programación del videojuego y la implementación de la base de datos remota que se encarga de guardar los items del jugador y un el contador de cuantas veces ha pasado el nivel.
+Yo, Elías Halabi, me encargué especificamente de parte de programación del videojuego y la implementación de la base de datos remota que se encarga de guardar los items del jugador y un el contador de cuantas veces ha pasado el nivel. Las instrucciones SQL fueron escritos en archivos PHP.
 
 Link del juego: https://ignaciomarzotta.github.io/UltraCookingLegacyEpsilon/
 
